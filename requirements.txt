@@ -1,0 +1,7 @@
+datasets
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+ipykernel
