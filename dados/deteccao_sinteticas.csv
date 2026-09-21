@@ -1,0 +1,4 @@
+modelo,acuracia_original,deteccao_sintetica
+Logistic Regression,0.944,0.6462585034013606
+Random Forest,0.937,0.48299319727891155
+BERTimbau,0.0,0.20408163265306123
